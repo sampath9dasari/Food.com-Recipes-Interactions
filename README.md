@@ -12,7 +12,3 @@ In this project we performed the following analyses.
 * Clustering analysis of the recipes,
 * Built an application component to predict the cuisine of the dish based on ingredients,
 * Model to predict the missing nutritional values based on other nutritional values.
-
-
-My co-collaborators for this project are :
-@SONAMDAWANI and @anit2
